@@ -1,1 +1,11 @@
-
+{
+  "siteTitle": "Pretty Simple Gallery",
+  "tagline": "A curated collection of moments",
+  "copyright": "© 2026 Richard",
+  "contactEmail": "contact@example.com",
+  "theme": {
+    "primaryColor": "#222",
+    "accentColor": "#e67e22",
+    "backgroundColor": "#f8f8f8"
+  }
+}
