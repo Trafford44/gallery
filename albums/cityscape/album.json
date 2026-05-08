@@ -1,0 +1,11 @@
+{
+  "slug": "cityscape",
+  "title": "City Scapes",
+  "description": "Urban scenes and architectural photography.",
+  "visibility": "public",
+  "images": [
+    "img1",
+    "img2",
+    "img3"
+  ]
+}
